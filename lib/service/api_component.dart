@@ -1,0 +1,1 @@
+String baseUrl = "https://staging-ucao.digitalubuntu.sn/wp-json/wp/v2/users";
